@@ -1,5 +1,9 @@
 # dashing-doughnutchart
 
+## Preview
+
+![DoughnutChart](https://raw.githubusercontent.com/wiki/jorgemorgado/dashing-doughnutchart/doughnutchart.png)
+
 ## Description
 
 Simple [Dashing](http://shopify.github.com/dashing) widget (and associated job)
